@@ -1,4 +1,5 @@
 ## LeetCode Problems Table That I Solved...
+##### Easy: 8, Medium: 3, Hard: 0; Total: 11
 | Number | Name                               | Difficulty |
 |--------|------------------------------------|------------|
 | 1      | Two Sum                            | Easy       |
