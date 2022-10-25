@@ -1,5 +1,5 @@
 ## LeetCode Problems Table That I Solved...
-##### Easy: 8, Medium: 3, Hard: 0; Total: 11
+##### Easy: 9, Medium: 3, Hard: 0; Total: 12
 | Number | Name                               | Difficulty |
 |--------|------------------------------------|------------|
 | 1      | Two Sum                            | Easy       |
@@ -13,3 +13,4 @@
 | 387    | First Unique Character in a String | Easy       |
 | 461    | Hamming Distance                   | Easy       |
 | 645    | Set Mismatch                       | Easy       |
+| 1662   | 1662. Check If Two String Array are Equivalent | Easy |
